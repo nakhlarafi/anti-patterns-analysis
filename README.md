@@ -1,9 +1,9 @@
 # Implementation of the Assignment 2 of the course SOEN 6591 - Group 1 - Concordia University
 
-Group 1 students:
-- Lorena Barreto Simedo Pacheco - 40232794
-- Md Nakhla Rafi - 40239976
-- Yi Wen Heng - 40208934
+## Contributors:
+- Lorena Barreto Simedo Pacheco
+- Md Nakhla Rafi
+- Yi Wen Heng
 
 ## Implemented anti-patterns:
 - Throws generic
